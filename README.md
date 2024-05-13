@@ -1,7 +1,7 @@
 # origin
 git demo another one
 
-" Project: Git Tutorial Demo 
+# Project: Git Tutorial Demo 
 ==========================
 --------------------------
 
@@ -13,7 +13,7 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-" List
+# List
 ================
 ----------------
 
@@ -34,7 +34,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 - Or minuses
 + Or pluses
 
-" Links
+# Links
 ===================
 -------------------
 
@@ -60,7 +60,7 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 
-" Images
+# Images
 ====================
 --------------------
 
